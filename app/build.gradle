@@ -31,7 +31,7 @@ android {
         targetSdkVersion 34
         versionCode 3
         multiDexEnabled true
-        versionName "1.0"
+        versionName "1.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [
                 onesignal_app_id               : 'xxxxx-xxxxx-xxxxx–xxxxx',
